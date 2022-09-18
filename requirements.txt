@@ -11,4 +11,6 @@ matplotlib>=1.4.3
 pandas>=0.19
 flasgger==0.9.4
 streamlit
-pip install opencv-python==2.4.9
+scikit-learn==0.18.1
+matplotlib
+opencv==3.1
